@@ -10,6 +10,7 @@ public class GameManager : MonoBehaviour {
     public int score;
     public Text scoreText;
     public Text highscoreText;
+    
 
     private void Awake()
     {
